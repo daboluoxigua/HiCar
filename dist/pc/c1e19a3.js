@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{788:function(e,t,n){"use strict";n.r(t);var r={layout:"breadcrumb",middleware:"metaTitle",meta:{title:"乘用车",redirect:"/passenger"},data:function(){return{formData:{},currency:"$"}}},c=n(23),component=Object(c.a)(r,(function(){return(0,this._self._c)("nuxt")}),[],!1,null,"6fb42d6a",null);t.default=component.exports}}]);

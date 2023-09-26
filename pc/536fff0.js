@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{795:function(t,e,n){"use strict";n.r(e);var r={layout:"breadcrumb",middleware:"metaTitle",meta:{title:"商用车"},data:function(){return{formData:{},currency:"$"}}},c=n(23),component=Object(c.a)(r,(function(){return(0,this._self._c)("nuxt")}),[],!1,null,"09edca83",null);e.default=component.exports}}]);
